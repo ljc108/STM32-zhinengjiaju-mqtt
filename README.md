@@ -1,6 +1,7 @@
 # STM32-zhinengjiaju-mqtt
 # 主要步骤：
 
+![image](https://github.com/ljc108/STM32-zhinengjiaju-mqtt/blob/master/zhinengjiaju%20.png)
 ###  1、硬件选型
 STM32F103ZET6（正点原子精英板）、BH1750光照度传感器、DHT11温湿度传感器、OLED屏（I2C接口）、ESP8266-01s WIFI模块。
   
